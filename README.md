@@ -1,5 +1,4 @@
 # DBA3702 Project
-
 Project done for NUS module, <i>Descriptive Analytics with R</i>, in Spring 2020
 <br> Done by: Kai Wei Tan, Hu Ze Yi, Lim Jia Qi, Kimberly Ong, Soh Hong Ray
 
