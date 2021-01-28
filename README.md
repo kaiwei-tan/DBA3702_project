@@ -1,5 +1,9 @@
 # DBA3702_project
-<br> Project done for module Descriptive Analytics with R
-<br> This app is made for people who are searching for condominiums to rent in Singapore, as well as condominium homeowners who are intending to rent out their units. We want potential tenants to be more aware of various amenities surrounding properties in Singapore, and potential landlords to recognise how their own proximity to amenities compares to that of other nearby properties.
-<br> As a start, this app includes data on nearby shopping malls, schools, MRT/LRT stations, and hospitals, which are features we felt tenants would be most interested in. It also includes construction data, for tenants to know any potential noise disturbances around properties. Data is stored in their respective CSV files, and was scraped from various online sources, Singapore government data stores, or APIs.
-<br> This app is also developed with popular rental portal 99.co in mind. As such, the app checks for existing listings for selected properties for users in real-time as well!
+
+Project done for module Descriptive Analytics with R
+
+This app is made for people who are searching for condominiums to rent in Singapore, as well as condominium homeowners who are intending to rent out their units. We want potential tenants to be more aware of various amenities surrounding properties in Singapore, and potential landlords to recognise how their own proximity to amenities compares to that of other nearby properties.
+
+As a start, this app includes data on nearby shopping malls, schools, MRT/LRT stations, and hospitals, which are features we felt tenants would be most interested in. It also includes construction data, for tenants to know any potential noise disturbances around properties. Data is stored in their respective CSV files, and was scraped from various online sources, Singapore government data stores, or APIs.
+
+This app is also developed with popular rental portal 99.co in mind. As such, the app checks for existing listings for selected properties for users in real-time as well!
