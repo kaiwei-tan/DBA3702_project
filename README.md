@@ -1,6 +1,6 @@
 # DBA3702_project
 
-Project done for module Descriptive Analytics with R
+Project done for NUS module, Descriptive Analytics with R in Spring 2020
 
 This app is made for people who are searching for condominiums to rent in Singapore, as well as condominium homeowners who are intending to rent out their units. Through this data visualization project, we aim to help potential tenants to be more aware of various amenities surrounding properties in Singapore, and potential landlords to recognise how their own proximity to amenities compares to that of other nearby properties.
 
