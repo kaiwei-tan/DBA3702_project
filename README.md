@@ -1,4 +1,4 @@
-# DBA3702_project
+# DBA3702 Project
 
 Project done for NUS module, Descriptive Analytics with R in Spring 2020
 
